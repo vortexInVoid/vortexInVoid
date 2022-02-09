@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋 🐉 🦅 🐻
 - 🏫 I am currently a Computer Science student @ Bilkent University!
 - 🔭 I’m currently working on a pyhton project that encrypts your messages in a funny way.
 - 🌱 I’m currently learning web scrapping for data science. ✈️
