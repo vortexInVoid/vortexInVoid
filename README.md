@@ -1,6 +1,6 @@
 ### Hi there! 👋 🐉 🦅 🐻
 - 🏫 I am currently a Computer Science student @ Bilkent University!
-- 🔭 I’m currently working on a pyhton project that encrypts your messages in a funny way.
+- 🔭 I’m currently working on a pyhton project that forecasts economic data via unsupervised learning.
 - 🌱 I’m currently learning web scrapping for data science. ✈️
 - 👯 I’m looking to collaborate on matlab projects.
 - 🤔 I’m looking for help with voice recognition.
