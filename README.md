@@ -7,7 +7,7 @@
 - 💬 Ask me about Java,Rust and python.
 - 📫 How to reach me: contact_Murat_Ertan@protonmail.com
 - 😄 Pronouns: Deceptively honest,loyally opposite,wise fool!
-- ⚡ Fun fact: His first program was "chat-bot" which used if statements when he was 10.5 years old in visual basic.🚀
+- ⚡ Fun fact: His first program was "chat-bot" which used if statements when he was 10.5 years old in visual basic.
 <!--
 **vortexInVoid/vortexInVoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
