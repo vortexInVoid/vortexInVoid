@@ -1,10 +1,10 @@
 ### Hi there! 👋 🐉 🦅 🐻
 - 🏫 I am currently a Computer Engineering student @ Bilkent University!
-- 🔭 I’m currently working on a NLP project.
-- 🌱 I’m currently learning Linux. ✈️
+- 🔭 I’m currently working on Sustainability Coach.
+- 🌱 I’m currently learning System Verilog. ✈️
 - 👯 I’m looking to collaborate on time-series forecasting.
 - 🤔 I’m looking for help with Assembly.
-- 💬 Ask me about Java,Rust and python.
+- 💬 Ask me about Java, Rust and python.
 - 📫 How to reach me: contact_Murat_Ertan@protonmail.com
 - 😄 Pronouns: Deceptively honest,loyally opposite,wise fool!
 - ⚡ Fun fact: His first program was "chat-bot" which used if statements when he was 10.5 years old in visual basic.
